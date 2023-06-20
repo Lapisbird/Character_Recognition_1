@@ -13,7 +13,7 @@ import numpy as np
 # defining a batch size
 batch_size = 64
 
-# number of worker to use for parallelized data loading
+# number of workers to use for parallelized data loading
 num_workers = 0
 
 # creates an instance of the torchvision.transforms.Compose() class, which
